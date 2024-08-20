@@ -68,7 +68,6 @@ export function InviteGuestsModal({
             <Plus className="size-5" />
           </Button>
 
-          <button className="bg-lime-300 text-lime-950 rounded-lg px-5 py-2 font-medium flex items-center gap-2 hover:bg-lime-400"></button>
         </form>
       </div>
     </div>
